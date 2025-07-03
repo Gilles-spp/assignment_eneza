@@ -42,5 +42,6 @@ Sure you can write in any text editor, but there are many markdown-specific writ
 - Markdown Edit
 Don’t want to deal with the syntax? No problem. Need a focus mode? Got it. Need to edit on the phone? No problem. Need to sync between devices? Easy. Have to have built in publishing features? Done. Whatever writing workflow you are looking for there are tools available to help you.
 
-3.
+3. **Portability**
+As you can see, with Markdown your content is not tied to a specific app or platform, and you are free to pick up and switch to a new app at any time. This is not the case with proprietary formats or cloud-based solutions.
 
