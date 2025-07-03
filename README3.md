@@ -71,6 +71,7 @@ Embedding metadata within your Markdown files can improve the efficiency of orga
 Once I got familiar with the incredible ecosystem around markdown it’s easy to see why markdown is so flexible and powerful. But the main reason I’m so fired up about markdown is this: Markdown is AI ready!
 
 3. **Control**
+
 This final point is not as fun but it is the most important. If you believe that the effort you put into what you write, including all of your thoughts and ideas, is valuable, then it should be under your control.
 
 **Loss prevention**
